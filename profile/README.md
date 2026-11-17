@@ -1,6 +1,8 @@
 <p align="center">
-  <a href="https://predictes.com"><img src="https://predictes.com/images/logo.png" width="220" alt="predictes"></a>
+  <a href="https://predictes.com"><img src="https://predictes.com/images/favicon.svg" width="72" alt="predictes"></a>
 </p>
+
+<h1 align="center">predictes</h1>
 
 <p align="center"><strong>Most AI projects die between the slide and the system.</strong></p>
 
